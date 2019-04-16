@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thisabielo.codyiddings.com/sitemap.xml
